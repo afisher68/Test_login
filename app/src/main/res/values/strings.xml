@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Услуги в КЗ</string>
+    <string name="hello_world">Регистрация нового пользователя</string>
+    <string name="action_settings">Settings</string>
+    <string name="not_registered">Не зарегистрирован</string>
+    <string name="registered">Зарегистрирован</string>
+</resources>
